@@ -1,0 +1,24 @@
+What are some of the factors that contribute to a rise in inflation?
+Share on Facebook  Share on Twitter  Share on LinkedIn
+
+October 2002
+
+This is a great question! Inflation rates and speculation about future inflation are mentioned so often in the media that it’s important to know some basics about inflation.
+
+What is inflation?
+Inflation is defined as a rise in the general price level. In other words, prices of many goods and services such as housing, apparel, food, transportation, and fuel must be increasing in order for inflation to occur in the overall economy. If prices of just a few types of goods or services are rising, there isn’t necessarily inflation.
+
+Inflation may be measured in several ways. The September 1999 Ask Dr. Econ question notes that inflation is commonly measured by “either a Gross Domestic Product Deflator (GDP Deflator) or a Consumer Price Index (CPI) indicator. The GDP Deflator is a broad index of inflation in the economy; the CPI Index measures changes in the price level of a broad basket of consumer products.” Each month, the Bureau of Labor Statistics (BLS) publishes a press release that reports recent changes in the CPI by product category and for several large metropolitan areas in the United States. Another measure of inflation is the Personal Consumption Expenditure Chain Price Index or PCE Price Index. The PCE price index is published by the Bureau of Economic Analysis and measures inflation across the basket of goods purchased by households.
+
+What causes inflation?
+Economists distinguish between two types of inflation: Demand-Pull Inflation and Cost-Push Inflation. Both types of inflation cause an increase in the overall price level within an economy.
+
+Demand-pull inflation
+
+Demand-pull inflation occurs when aggregate demand for goods and services in an economy rises more rapidly than an economy’s productive capacity. One potential shock to aggregate demand might come from a central bank that rapidly increases the supply of money. See Chart 1 for an illustration of what will likely happen as a result of this shock. The increase in money in the economy will increase demand for goods and services from D0 to D1. In the short run, businesses cannot significantly increase production and supply (S) remains constant. The economy’s equilibrium moves from point A to point B and prices will tend to rise, resulting in inflation.
+
+
+
+Cost-push inflation, on the other hand, occurs when prices of production process inputs increase. Rapid wage increases or rising raw material prices are common causes of this type of inflation. The sharp rise in the price of imported oil during the 1970s provides a typical example of cost-push inflation (illustrated in Chart 2). Rising energy prices caused the cost of producing and transporting goods to rise. Higher production costs led to a decrease in aggregate supply (from S0 to S1) and an increase in the overall price level because the equilibrium point moved from point Z to point Y.
+
+While the differences in inflation noted above may seem simple, the cause of price level changes observed in the real economy are often much more complex. In a dynamic economy it can be especially difficult to isolate a single cause of a change in the price level. However, knowing what inflation is and what conditions might cause it is a great start!
