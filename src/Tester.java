@@ -8,31 +8,31 @@ import org.apache.lucene.search.TopDocs;
 
 public class Tester {
 
-	public static void main(String[] args) throws IOException, ParseException {
+	public static void main(String[] args) throws IOException, ParseException, org.apache.lucene.queryparser.classic.ParseException {
 		// TODO Auto-generated method stub
 
-		
-		Indexer indexer = new Indexer("Index");
+		/**
+		Indexer indexer = new Indexer("Standard");
 		
 		for(int i = 0; i< 100; ++i){
 			indexer.indexFile(new File(i+".txt"));
 		}
 		
 		indexer.close();
+		*/
 		
-		 Searcher searcher = new Searcher("Index");
+		
+		 Searcher searcher = new Searcher("Standard");
 	     
-	      TopDocs hits = searcher.search("europe");
-	     
+	     TopDocs hits = searcher.search("asia winter");
 	   
 	      System.out.println(hits.totalHits +
 	         " documents found.");
 	      for(ScoreDoc scoreDoc : hits.scoreDocs) {
 	         Document doc = searcher.getDocument(scoreDoc);
 	            System.out.println("File: "
-	            + doc.get("contents"));
+	            + doc.get("contents").substring(0, 500));
 	      }
-		
 	}
 
 }

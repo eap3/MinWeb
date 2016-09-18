@@ -10,6 +10,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -22,20 +23,20 @@ import org.apache.lucene.util.Version;
 public class Searcher {
 
 	IndexSearcher indexSearcher;
-	QueryBuilder queryBuilder;
+	QueryParser queryParser;
 	Query query;
 	   
 	   public Searcher(String indexDirectoryPath) 
 	      throws IOException{
 	      IndexReader indexReader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDirectoryPath)));
 	      indexSearcher = new IndexSearcher(indexReader);
-	      queryBuilder = new QueryBuilder(new StandardAnalyzer());
+	      queryParser = new QueryParser("contents", new StandardAnalyzer());
 	   }
 	   
-	   public TopDocs search( String searchQuery) 
-	      throws IOException, ParseException{
-		  query = queryBuilder.createPhraseQuery("contents", searchQuery);
-	      return indexSearcher.search(query, 10);
+	   public TopDocs search(String searchQuery) 
+	      throws IOException, ParseException, org.apache.lucene.queryparser.classic.ParseException{
+		  query = queryParser.parse(searchQuery);
+	      return indexSearcher.search(query, 20);
 	   }
 
 	   public Document getDocument(ScoreDoc scoreDoc) 
