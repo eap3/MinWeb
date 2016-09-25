@@ -1,0 +1,47 @@
+How does the stock market affect the economy?
+ Tejvan Pettinger August 2, 2015	 stock market
+Movements in the stock market can have a profound economic impact on the economy and everyday people. A collapse in share prices has the potential to cause widespread economic disruption. Most famously, the stock market crash of 1929 was a key factor in causing the great depression of the 1930s. Yet, daily movements in the stock market can also have less impact on the economy than we might imagine. During the great recession of 2009-13, the stock market performed quite strongly. This rise in share prices was rather misleading to the state of the economy. Also, a fall in share prices doesn’t necessarily cause an economic downturn. There is a saying:
+
+Stock markets have predicted 10 out of the last 3 recessions.
+For example, the stock market crash of 1987, didn’t cause any lasting economic damage. (though it did influence monetary policy. UK cut interest rates in fear the stock market crash would cause a recession. Instead, low interest rates caused a boom.
+
+Plummeting share prices can make headline news. But, how much should we worry when share prices fall? How does it impact on the average consumer? and how does it affect the economy?
+
+Economic effects of the Stock Market
+
+1. Wealth effect
+
+The first impact is that people with shares will see a fall in their wealth. If the fall is significant it will affect their financial outlook. If they are losing money on shares they will be more hesitant to spend money; this can contribute to a fall in consumer spending. However, the effect should not be given too much importance. Often people who buy shares are prepared to lose money; their spending patterns are usually independent of share prices, especially for short term losses. The wealth effect is more prominent in the housing market. In Dec 2014, the value of the UK stock market was US $6.06 trillion so it has a big impact on wealth.
+
+2. Effect on pensions
+
+Anybody with a private pension or investment trust will be affected by the stock market, at least indirectly. Pension funds invest a significant part of their funds on the stock market. Therefore, if there is a serious fall in share prices, it reduces the value of pension funds. This means that future pension payouts will be lower. If share prices fall too much, pension funds can struggle to meet their promises. The important thing is the long term movements in the share prices. If share prices fall for a long time then it will definitely affect pension funds and future payouts.
+
+3. Confidence
+
+Often share price movements are reflections of what is happening in the economy. E.g. a fear of a recession and global slowdown could cause share prices to fall. The stock market itself can affect consumer confidence. Bad headlines of falling share prices are another factor which discourage people from spending. On its own it may not have much effect, but combined with falling house prices, share prices can be a discouraging factor. However, there are times when the stock market can appear out of step with the rest of the economy. In the depth of a recession, share prices may rise as investors look forward to a recovery two years in the future.
+
+4. Investment
+
+Falling share prices can hamper firms ability to raise finance on the stock market. Firms who are expanding and wish to borrow often do so by issuing more shares – it provides a low cost way of borrowing more money. However, with falling share prices it becomes much more difficult.
+
+5. Bond market
+
+A fall in the stock market makes other investments more attractive. People may move out of shares and into government bonds or gold. These investments offer a better return in times of uncertainty. Though sometimes the stock market could be falling over concerns in government bond markets (e.g. Euro fiscal crisis)
+
+How does the stock market effect ordinary people?
+
+Most people, who do not own shares, will be largely unaffected by short term movements in the stock market. However, ordinary workers are not completely unaffected by the stock market.
+
+1. Pension funds. Many private pension funds will invest in the stock market. A substantial and prolonged fall in the stock market could lead to a fall in the value of their pension fund, and it could lead to lower pension payouts when they retire. Similarly, if the stock market does well, the value of pension funds could increase. Even if people don’t own shares, it is quite likely people with a private pension will have some connection to the stock market.
+
+2. Business investment. The stock market could be a source of business investment, e.g. firms offering new shares to finance investment. This could lead to more jobs and growth. The stock market can be a source of private finance when bank finance is limited. However, the stock market is not usually the first source of finance. Most investment is usually financed through bank loans rather than share options. The stock market only plays a limited role in determining investment and jobs.
+
+3. Short-termism. It could be argued workers and consumers can be adversely affected by the short-termism that the stock market encourages. Shareholders usually want bigger dividends. Therefore, firms listed on the stock market can feel under pressure to increase short-term profits. This can lead to cost cutting which affects workers (e.g. zero contract hours) or the firm may be more tempted to engage in collusive practises which push up prices for consumers. It has been argued that UK firms are more prone to short-termism because the stock market plays a bigger role in financing firms. In Germany, firms are more likely to be financed by long-term loans from banks. Typically, banks are more interested in the long-term success of firms and are willing to encourage more investment, rather than short-term profit maximisation.
+
+Related
+
+Essays on recessions
+Will a stock market crash cause a depression?
+The economics of the stock market
+Impact of a crash in Chinese stock market on Western economies
