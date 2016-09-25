@@ -25,22 +25,29 @@ public class Searcher {
 	IndexSearcher indexSearcher;
 	QueryParser queryParser;
 	Query query;
-	   
-	   public Searcher(String indexDirectoryPath) 
-	      throws IOException{
-	      IndexReader indexReader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDirectoryPath)));
-	      indexSearcher = new IndexSearcher(indexReader);
-	      queryParser = new QueryParser("contents", new StandardAnalyzer());
-	   }
-	   
-	   public TopDocs search(String searchQuery) 
-	      throws IOException, ParseException, org.apache.lucene.queryparser.classic.ParseException{
-		  query = queryParser.parse(searchQuery);
-	      return indexSearcher.search(query, 20);
-	   }
 
-	   public Document getDocument(ScoreDoc scoreDoc) 
-	      throws CorruptIndexException, IOException{
-	      return indexSearcher.doc(scoreDoc.doc);	
-	   }
+	public Searcher(String indexDirectoryPath) throws IOException{
+		IndexReader indexReader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDirectoryPath)));
+		indexSearcher = new IndexSearcher(indexReader);
+
+		if(indexDirectoryPath.equals("Basic")){
+			queryParser = new QueryParser("contents", new BasicAnalyzer());
+		} else if (indexDirectoryPath.equals("StopWord")){
+			queryParser = new QueryParser("contents", new StandardAnalyzer());
+		} else if (indexDirectoryPath.equals("Stemming")){
+			queryParser = new QueryParser("contents", new StemmingAnalyzer());
+		} else{
+			queryParser = new QueryParser("contents", new BothAnalyzer());
+		}
+	}
+
+	public TopDocs search(String searchQuery) 
+			throws IOException, ParseException, org.apache.lucene.queryparser.classic.ParseException{
+		query = queryParser.parse(searchQuery);
+		return indexSearcher.search(query, 200);
+	}
+
+	public Document getDocument(ScoreDoc scoreDoc) throws CorruptIndexException, IOException{
+		return indexSearcher.doc(scoreDoc.doc);	
+	}
 }

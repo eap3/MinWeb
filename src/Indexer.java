@@ -8,19 +8,15 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
-import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.IndexableField;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.IOUtils;
 import org.apache.lucene.util.Version;
-import org.jsoup.Jsoup;
 import org.apache.lucene.document.Field;
 
 public class Indexer {
@@ -32,7 +28,7 @@ public class Indexer {
 	      Directory indexDirectory = FSDirectory.open(Paths.get(indexDirectoryPath));
 
 	      //create the indexer
-	      writer = new IndexWriter(indexDirectory, new IndexWriterConfig(new StandardAnalyzer()));
+	      writer = new IndexWriter(indexDirectory, new IndexWriterConfig(new StemmingAnalyzer()));
 	   }
 
 	   public void close() throws CorruptIndexException, IOException{
@@ -79,9 +75,6 @@ public class Indexer {
 	      }
 	      return writer.numDocs();
 	   }
-	
-	
-	
 //
 //	static IndexWriter indexWriter;
 //	
@@ -106,6 +99,4 @@ public class Indexer {
 //	public void close() throws CorruptIndexException, IOException{
 //	      indexWriter.close();
 //    }
-
-
 }
