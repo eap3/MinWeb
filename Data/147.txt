@@ -1,0 +1,56 @@
+Relationship between stock market and economy
+ Tejvan Pettinger July 18, 2016	 economics
+Readers Question: What’s the relationship between a countries economy and it’s stock market? Is it always true that the stock market reflects a country’s economic conditions?
+
+Generally speaking, the stock market will reflect the economic conditions of an economy. If an economy is growing then output will be increasing and most firms should be experiencing increased profitability. This higher profit makes the company shares more attractive – because they can give bigger dividends to shareholders.
+
+Dow Jones industrial average
+
+Dow Jones
+Dow Jones fell 2008/09 due to recession. Source: St Louis Fed
+If the economy is forecast to enter into a recession, then stock markets will generally fall. This is because a recession means lower profits, less dividends and even the prospect of firms going bankrupt, which would be bad news for shareholders.
+
+Also, in a period of uncertainty, investors may prefer to buy bonds for the greater security and avoid shares, because of the greater risk involved.
+
+Why can stock markets rise in a recession?
+
+However, in a recession or period of uncertainty, stock markets can sometimes increase, why is this?
+
+Anticipation effects. Stock markets are forward looking. The stock market may already have priced in the effect of the recession and now the stock market is anticipating a recovery. For example, stock markets in 2007 and 2008 performed badly in anticipation of a US recession. But, during long period of economic stagnation, stock markets might do better than expected because they are recovering former losses.
+
+Profits as a share of GDP. Since the 2008 credit crunch, we have seen company profit become a bigger share of national income. Despite low economic growth, firms have been able to increase profitability. In short, real wage growth has been muted, but many companies have seen a rise in profits and cash reserves. This is due to factors, such as the monopoly power of large IT firms, such as Apple, Google and Microsoft. Therefore, despite relatively weak economic growth, publically listed companies, are still attractive to shareholders because they have retained their profitability, and even increased it faster than GDP growth.
+
+Ultra low interest rates. In 2016, we have seen a rise in government bonds with negative yields. This means investors are buying bonds – even though, they lose money because of negative interest rates. This is because in the current climate, investors are pessimistic about the fortunes of the economy. With great uncertainty in the economy, investors are happy to buy bonds for the security they offer – even though they have very poor returns. Because of ultra-low interest rates, shares become relatively more attractive. Investors are willing to buy shares, despite threat of recession, because they at least have a good yield compared to bonds.
+
+Ironically, the stock market can do relatively well because there is a poor choice of investment opportunities.
+
+Selective share prices
+
+It is also worth noting that within the stock market, different firms and sectors will be more affected by bad economic news. For example, after Brexit June 2016, we see a fall in share price for sectors, such as construction and banks. These sectors will be more affected by an economic downturn. In a downturn, with falling house prices, we will see a big fall in demand for building new houses and also demand for luxury items. Banks may lose out because of the decline in profitability and demand for loans.
+
+However, other sectors may prove more robust. For example, food and drink are less likely to be affected by a recession. Even in times of negative growth, people will still want to buy food and drink.
+
+FTSE-100 vs FTSE-250
+
+FTSE-100
+
+FTSE-100
+FTSE-100 since 1985. FTSE-100 fell 2000 to 2004 – despite good economic growth and low inflation.
+After the Brexit vote, the FTSE-100 has done much better than the FTSE-250. This is because the FTSE-100 is mainly comprised of multinational firms, whose profitability is dependent on strength of US and global economy; they are less reliant on UK economy and the value of the Pound. However, the FTSE-250 is composed of smaller companies who are more dependent on UK economy, and so are more influenced by prospects of a UK recession.
+
+Stock markets and developing economies
+
+If you have a country with a consistently higher rate of economic growth, then generally stock markets will perform better than in a country with lower rates of growth. The link may not be perfect but there is definitely some correlation.
+
+When the stock market can affect the economy
+
+In some situations you can argue that the stock market can actually affect the economy. The best case would perhaps be the Wall Street Crash of 1929-32. This rapid decline in the stock markets severely affected business and consumer confidence. It also caused banks to lose money. This crash was undoubtedly a factor in contributing to the length and severity of the Great Depression. Having said that, it is also worth pointing out that the stock market crash was due to the prospect of recession. In a way the falling stock market and depression were closely linked.
+
+The stock market doesn’t always affect the economy. On Black Monday 1987 stock markets around the world crashed. However, this didn’t precipitate a recession like previous stock market crashes.
+
+Related
+
+Black Thursday 1929
+Economics of the Stock Market
+Effect of falling share prices on the economy
+How does the stock market affect the economy?
